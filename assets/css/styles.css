@@ -1,0 +1,101 @@
+body {
+    background: black;
+}
+
+#nav {
+    color: black;
+}
+
+#enlace-1:hover,
+#enlace-2:hover {
+    color: rgb(5, 5, 182);
+}
+
+.icono {
+    height: 50px;
+    width: 50px;
+}
+
+.container-form {
+    display: flex;
+    margin: 0 auto;
+    margin: 100px;
+    margin-top: 40px;
+    margin-left: 380px;
+    height: 400px;
+    width: 400px;
+    border-radius: 15px;
+    color: white;
+    background-color: rgb(39, 39, 39);
+    padding: 20px;
+    border: 1px solid blue;
+}
+
+.main-title {
+    margin-right: 40px;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 2px;
+}
+
+.main-parragraph {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    padding: 100px;
+}
+
+.form-group {
+    padding: 20px;
+    margin-left: 50px;
+}
+
+#boton-enviar {
+    margin-top: 20px;
+    margin-left: 115px;
+}
+
+#boton-cobertura {
+    margin-top: 20px;
+    margin-left: 95px;
+}
+
+.container-result {
+    height: 40px;
+    width: 700px;
+    margin: 0 auto;
+    margin-left: 240px;
+    margin-top: 130px;
+    margin-bottom: 100px;
+}
+
+.container-result-parragraph {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+    padding-right: 10px;
+}
+
+#boton-oferta {
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+
+.container-ofertas {
+    width: 400px;
+    height: 200px;
+    margin-left: 380px;
+}
+
+.title-ofertas {
+    color: white;
+    text-align: center;
+    margin-right: 120px;
+}
+
+#result {
+    margin-top: 150px;
+}
